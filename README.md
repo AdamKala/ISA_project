@@ -41,12 +41,12 @@ Pořadí parametrů je libovolné, kromě -s, za kterým musí následovat adres
 ```
 ### Popis parametrů:
 
-```-r```: Požadována rekurze (Recursion Desired = 1), jinak bez rekurze.
-```-x```: Reverzní dotaz místo přímého.
-```-6```: Dotaz typu AAAA místo výchozího A.
-```-s```: IP adresa nebo doménové jméno serveru, kam se má zaslat dotaz.
-```-p port```: Číslo portu, na který se má poslat dotaz, výchozí 53.
-```adresa```: Dotazovaná adresa.
+```-r```: Požadována rekurze (Recursion Desired = 1), jinak bez rekurze.<br />
+```-x```: Reverzní dotaz místo přímého.<br />
+```-6```: Dotaz typu AAAA místo výchozího A.<br />
+```-s```: IP adresa nebo doménové jméno serveru, kam se má zaslat dotaz.<br />
+```-p port```: Číslo portu, na který se má poslat dotaz, výchozí 53.<br />
+```adresa```: Dotazovaná adresa.<br />
 
 ## Příklad spuštění a jeho výstupu:
 ### Spuštění 1:
