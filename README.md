@@ -4,25 +4,25 @@
 #### Hodnocení: 17/20
 ### Slovní komentář k hodnocení 
 
-Dokumentace seznamuje čtenáře s problematikou a postupem řešení, ale bylo by dobré zlepšit strukturu
-Nesprávná práce s bibliografií v dokumentaci
-Informativní README
-Dlouhé funkce, program je dlouhodobě nespravovatelný
-Podařilo se úspěšně komunikovat pomocí DNS
-Podpora autoritativní odpovědi
-Podpora odpovědi od neautoritativního serveru
-Úspěšně zobrazuje informace o nerekurzivním neautoritativním dotazu
-Podpora AAAA
-Chybí podpora PTR
-Chybí podpora PTR6 (zkrácený zápis adresy)
-Chybí podpora PTR6 (plný zápis adresy)
-Podpora CNAME při překladu na IPv4
-Podpora CNAME při překladu na IPv6
-Ošetřená chyba nepřítomného serveru
-Podpora serveru zadaného adresou IP
-Podpora serveru zadaného adresou IPv6
-Podpora serveru zadaného adresou IPv6
-Úspešné zpracování zprávy bez odpovědi (sekce answer)
+Dokumentace seznamuje čtenáře s problematikou a postupem řešení, ale bylo by dobré zlepšit strukturu__
+Nesprávná práce s bibliografií v dokumentaci__
+Informativní README__
+Dlouhé funkce, program je dlouhodobě nespravovatelný__
+Podařilo se úspěšně komunikovat pomocí DNS__
+Podpora autoritativní odpovědi__
+Podpora odpovědi od neautoritativního serveru__
+Úspěšně zobrazuje informace o nerekurzivním neautoritativním dotazu__
+Podpora AAAA__
+Chybí podpora PTR__
+Chybí podpora PTR6 (zkrácený zápis adresy)__
+Chybí podpora PTR6 (plný zápis adresy)__
+Podpora CNAME při překladu na IPv4__
+Podpora CNAME při překladu na IPv6__
+Ošetřená chyba nepřítomného serveru__
+Podpora serveru zadaného adresou IP__
+Podpora serveru zadaného adresou IPv6__
+Podpora serveru zadaného adresou IPv6__
+Úspešné zpracování zprávy bez odpovědi (sekce answer)__
 
 ### Odevzdané soubory:
 `manual.pdf`
